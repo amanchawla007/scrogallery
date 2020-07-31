@@ -2032,6 +2032,15 @@ h6, .h6 {
 /* SCRO animationn ends*/
 
  
+ h1 {
+    margin-left: 13px;
+    font-size: 220%;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 400;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
   #logo
 {
@@ -2862,4 +2871,4 @@ h6, .h6 {
 
 */
 
-
+ 
